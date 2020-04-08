@@ -1,42 +1,4 @@
-- [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) </br>
 
-## 写在最前面
-
-1. 本 repo 从来没有授权过任何公众号进行发布转载，所有公众号的引流都是公众号拥有者的自发行动，和本 repo 无关
-2. 为什么搞这个项目，本项目初始创建的时候并不知道「effective java 3rd」已经引入翻译。并且 repo 主是一个 true pdf 的狂热爱好者，个人制作这个项目也是因为更喜欢 true pdf 的观感。并且如果出现翻译错漏，迭代更新也是及时生效的。
-3. **免责声明**：本项目仅为个人学习交流使用，切勿作为商业用途，若将此项目作为商业用途，后果自负，与本项目无关。
-
-## ✏️ CS-Notes-PDF
-
-- [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) </br>
-
-## 额外资源
-
-* [effective-java-2nd 中文版 ](https://pan.baidu.com/s/1R6H9UHbFYubWWY9HrclZ2A)
-* [effective-java-3rd 英文版 ](https://pan.baidu.com/s/1mJx5ZrOD_RPjf3ghQnBV5g)
-* [effective-java-3rd 源代码](https://github.com/jbloch/effective-java-3e-source-code)
-
-## 一起来校对翻译
-
-Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
-
-<center>
-<img width="300" src="http://sjsdfg.gitee.io/effective-java-3rd-chinese/images/groupcode.png" />
-</center>
-
-
-
-##  品牌衣服一折购
-
-<center>
-<img width="400" src="https://upload.cc/i1/2019/10/26/q0FTRg.jpg" />
-</center>
-
-
-
-## 友情链接
-
- - [On Java 8中文版 - 即 thinking in java 第五版](https://github.com/LingCoder/OnJava8)
 
 ## 📚 高效 Java 第三版
 
@@ -163,7 +125,4 @@ Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=102
 - [89. 对于实例控制，枚举类型优于 readResolve](notes/89.%20对于实例控制，枚举类型优于%20readResolve.md)
 - [90. 考虑用序列化代理代替序列化实例](notes/90.%20考虑用序列化代理代替序列化实例.md)
 
-## 😋 Give me a Favor
-<center>
-<img width="600" src="http://static.zybuluo.com/ZzzJoe/yflamvkjh2i7zn5qcp9wpj61/%E5%AF%92%E6%B2%A7.jpg" />
-</center>
+
